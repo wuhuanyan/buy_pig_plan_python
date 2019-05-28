@@ -19,11 +19,12 @@
 >- [下载地址](http://chromedriver.storage.googleapis.com/index.html)
 >- 注意: 根据自己对应的谷歌浏览器版本下载,比较旧的版本可以参考[对照表](https://www.cnblogs.com/liyanqi/p/7826305.html)
 
-> 将下载后的`chromedriver`放置到某一目录，如`Chrome`浏览器所在目录，并将该目录添加至`环境变量`
+> 将下载后的`chromedriver`放置到`Chrome`浏览器所在目录，并将该目录添加至`环境变量`
 
 ## 配置
 参考config.py
 
 ## 运行
 电话攻击: python mySelenium.py
+
 采集网站: python lixianbao/main.py
